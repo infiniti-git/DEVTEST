@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mohan/public_html/cloudblog
+    - export DEPLOYPATH=/home/infinit4/public_html/DEVTEST/
     - /bin/cp index.html $DEPLOYPATH
