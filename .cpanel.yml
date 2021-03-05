@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/infinit4/public_html/
+    - export DEPLOYPATH=/home/infinit4/public_html/DEVTEST/
     - /bin/cp -R images $DEPLOYPATH
